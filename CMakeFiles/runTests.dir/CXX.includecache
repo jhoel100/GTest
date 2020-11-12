@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jhoel/Documents/3RO/SOFTWARE 2/tests.cpp
+whattotest.cpp
+/home/jhoel/Documents/3RO/SOFTWARE 2/whattotest.cpp
+gtest/gtest.h
+-
+
+/home/jhoel/Documents/3RO/SOFTWARE 2/whattotest.cpp
+math.h
+-
+
